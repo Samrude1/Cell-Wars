@@ -1,6 +1,6 @@
 # ⚔️ Cell Wars - Ecosystem Evolution
 
-[![Cell Wars Screenshot](screenshot.png)]
+![Cell Wars Screenshot](screenshot.png)
 
 _A dynamic cellular automaton simulation featuring three competing species in a living ecosystem. Watch as red predators, green symbiotes, and blue parasites evolve, compete, and form complex patterns through birth, survival, and extinction._
 
