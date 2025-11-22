@@ -4,11 +4,11 @@
 
 _A dynamic cellular automaton simulation featuring three competing species in a living ecosystem. Watch as red predators, green symbiotes, and blue parasites evolve, compete, and form complex patterns through birth, survival, and extinction._
 
-> 🎮 **[Play Now](Cell Wars.html)** - Open in any modern web browser
+> 🎮 **[Play Now](Cell_Wars.html)** - Open in any modern web browser
 
 ## 🚀 Quick Start
 
-1. **Open** `life-simulationV1.html` in any modern web browser
+1. **Open** `Cell_Wars.html` in any modern web browser
 2. **Click "▶ Start"** or press **Spacebar** to begin
 3. **Use controls** to interact with the simulation
 4. **Experiment** by clicking cells when paused
@@ -139,7 +139,7 @@ The simulation provides different outcomes based on ecosystem dynamics:
 
 ## 📁 Project Files
 
-- `life-simulationV1.html` - Complete simulation with all features
+- `Cell_Wars.html` - Complete simulation with all features
 - `README.md` - This comprehensive documentation
 - `screenshot.png` - Game preview image (replace with actual screenshot)
 - `screenshot-placeholder.txt` - Instructions for creating screenshot
