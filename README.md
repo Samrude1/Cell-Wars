@@ -4,8 +4,6 @@
 
 _A dynamic cellular automaton simulation featuring three competing species in a living ecosystem. Watch as red predators, green symbiotes, and blue parasites evolve, compete, and form complex patterns through birth, survival, and extinction._
 
-> 🎮 **[Play Now](Cell_Wars.html)** - Open in any modern web browser
-
 ## 🚀 Quick Start
 
 1. **Open** `Cell_Wars.html` in any modern web browser
